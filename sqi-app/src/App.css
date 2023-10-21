@@ -1,0 +1,108 @@
+*{
+  padding: 0;
+  margin: 0;
+  background-color: rgb(255,254,247);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.glo{
+  font-size: 70px;
+  font-weight: bold;
+  color: rgb(0,14,66);
+}
+.og{
+  font-size: 18px;
+  font-weight: bold;
+}
+@media (max-width:780px) {
+  .glo{
+    font-size: 43px;
+  }
+  .bad{
+    width: 370px;
+    height: 300px;
+    object-fit: contain;
+  }
+  .og{
+    font-size: 14px !important;
+  }
+  .idan{
+    width: 350px !important;
+    height: 300px;
+  }
+  .fac{
+    margin: 20px 0;
+    font-size: 16px !important;
+    font-weight: 500;
+    color: rgb(0,14,84);
+  }
+}
+.bam{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 50px 0;
+}
+.gbam{
+  height: 100% !important;
+  width: 90% !important;
+}
+.idan{
+  width: 300px;
+  height: 318px;
+}
+.fac{
+  margin: 20px 0;
+  font-size: 28px;
+  font-weight: 700;
+  color: rgb(0,14,84);
+}
+.min{
+  text-decoration: none;
+  background: transparent;
+  padding:10px 0;
+  border-bottom: 2px solid black;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+}
+.bom{
+  padding: 6px 0;
+  border-bottom: 1px solid rgb(49, 216, 69);
+}
+.kol{
+  height: 714px;
+  width: 480px;
+  background-color: rgb(213,234,243);
+  border-radius: 20px;
+  text-align: center;
+  padding: 0 50px;
+}
+.koj{
+  background-color: rgb(224,213,192);
+  height: 714px;
+  width: 480px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0 50px;
+}
+.kok{
+  height: 754px;
+  width: 480px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0 50px;
+  background-color: rgb(223,213,232);
+}
+.kom{
+  background-color: rgb(238,239,189);
+  height: 714px;
+  width: 480px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0 50px;
+}
+.gof{
+  width: 300px;
+  height: 250px;
+  margin: 40px 0;
+  border-radius: 20px;
+}
